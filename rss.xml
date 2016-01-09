@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Padrin Kwok Photography]]></title>
         <description><![CDATA[Padrin Kwok Photography]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/padrin-kwok-photography/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Jan 2016 16:57:58 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 09 Jan 2016 17:10:06 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/padrin-kwok-photography/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/39da005c-376f-4531-b039-2e0539c81a1e.jpg">]]></description>
+            <link>https://thegrid.ai/padrin-kwok-photography/25c5ba3a-72fe-4024-857d-9c49dbe1b330/index.html</link>
+            <guid isPermaLink="false">25c5ba3a-72fe-4024-857d-9c49dbe1b330</guid>
+            <pubDate>Sat, 09 Jan 2016 17:09:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Toronto-Dominion Centre]]></title>
             <description><![CDATA[<article><h1>Toronto-Dominion Centre</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3b2ac4e5595e403c017dbc274b58c7bad620bded.jpg"></article>]]></description>
-            <link>undefinedf8aca5fa-c505-473b-85e6-2682a102785b/index.html</link>
+            <link>https://thegrid.ai/padrin-kwok-photography/f8aca5fa-c505-473b-85e6-2682a102785b/index.html</link>
             <guid isPermaLink="false">f8aca5fa-c505-473b-85e6-2682a102785b</guid>
             <pubDate>Sat, 09 Jan 2016 16:57:49 GMT</pubDate>
         </item>
