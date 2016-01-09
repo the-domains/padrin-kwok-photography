@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Padrin Kwok Photography]]></title>
+        <description><![CDATA[Padrin Kwok Photography]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 09 Jan 2016 16:57:58 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Toronto-Dominion Centre]]></title>
+            <description><![CDATA[<article><h1>Toronto-Dominion Centre</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3b2ac4e5595e403c017dbc274b58c7bad620bded.jpg"></article>]]></description>
+            <link>undefinedf8aca5fa-c505-473b-85e6-2682a102785b/index.html</link>
+            <guid isPermaLink="false">f8aca5fa-c505-473b-85e6-2682a102785b</guid>
+            <pubDate>Sat, 09 Jan 2016 16:57:49 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
